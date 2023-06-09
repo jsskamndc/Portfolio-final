@@ -1,0 +1,47 @@
+body{
+		  margin:20px
+		}
+       .box{ width:96%; 
+	   left:0%;
+	   float:right;
+	   border:1px black;
+	   align:right;
+	   background-color:black;
+	   padding-right:25px;
+	   padding-left:25px;
+	   margin:0px;
+	   
+	   
+	   }
+	   
+.box ul li{
+	     width:150px;
+		 float: right;
+		 margin:10px audio;   
+		 text-align:center;
+		 }
+		 .box ul li a{ text-decoration: none; 
+		 color:white;
+		 }
+		 .box ul li:hover { background-color:white;}
+		 .box ul li a:hover{ color:black;}
+		 
+		.box h2{
+		  color:#ff5733;
+		   font-style:halvetica;
+         margin:30px;
+		 font-size:27px		
+		 }
+ .container ul li{
+		 padding-left:45%;
+		padding-top:5%;
+		font-family:verdana;
+		
+		 
+		 }
+    .container img {
+		padding-top:3%;
+		height: 25%;
+		width: 25%;
+
+	}
